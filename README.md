@@ -8,7 +8,7 @@ Welcome to my corner of GitHub where **cloud computing meets machine learning** 
 
 ## 🌱 About Me
 
-- 💡 Exploring **GenAI**, especially RAG pipelines, storytelling with word embeddings using AI.
+- 💡 Exploring **GenAI**, especially RAG pipelines, story dialogue tree generation using transformer models.
 - 📘 AWS Certified Cloud Practitioner (CLF-C02) — solid foundations in cloud strategy, disaster recovery, and migration models.
 - ☁️ Oracle Cloud Infrastructure Foundation Associate Certified — equipped with essential skills for cloud architecture, core services, security, and cost management in OCI.
 - 🧠 Proficient in **Python** and **C++**, solving real-world problems through NLP, algorithmic puzzles, and computer vision.
@@ -28,13 +28,7 @@ Welcome to my corner of GitHub where **cloud computing meets machine learning** 
 | 🔭 Ongoing Growth     | Exploring cloud-AI integrations and ethical tech innovations |
 ---
 
-
-## 🧩 Fun Fact
-
-If you're into witty combos, I once brainstormed thrilling name ideas with “Oracle”—proof that tech branding can be a creative sport. 🕹️
-
----
-
 ## 📬 Let’s Connect!
 
-I’m always up for tech talk, AI brainstorming, or a deep dive into cloud architecture. Feel free to reach out or explore some of my ongoing projects right here on GitHub!
+- I’m always up for tech talk, AI brainstorming, or a deep dive into cloud architecture. Feel free to reach out!
+- 💼 [Let's connect on LinkedIn!](https://www.linkedin.com/in/krishna-varia/)
