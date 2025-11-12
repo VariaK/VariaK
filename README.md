@@ -20,12 +20,12 @@ Welcome to my corner of GitHub where **cloud computing meets machine learning** 
 
 | Tech Stack           | Details |
 |----------------------|---------|
-| 🌩️ Cloud             | AWS (migration models, support plans, recovery strategies), OCI |
-| 🐍 Programming       | Python (NLP, GloVe embeddings), C++ (STL, algorithmic thinking) |
-| 🧠 ML & AI           | Naïve Bayes, GaussianNB, RAG pipelines, GenAI creativity |
-| 🎨 Creativity        | AI-powered storytelling, branding, and naming ideas |
+| 🌩️ Cloud             | AWS, OCI |
+| 🐍 Programming       | Python, C++ (STL, algorithmic thinking) |
+| 🧠 ML & AI           | RAG pipelines, GenAI creativity |
+| 🎨 Creativity        | AI-powered storytelling ideas |
 | 📊 Communication     | Clear explanation of complex concepts — technical and creative |
-| 🔭 Ongoing Growth     | Exploring cloud-AI integrations and ethical tech innovations |
+| 🔭 Ongoing Growth     | Exploring cloud-AI integrations and tech innovations |
 ---
 
 ## 📬 Let’s Connect!
